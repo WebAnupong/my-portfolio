@@ -279,11 +279,11 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <span className="text-2xl mr-4">📧</span>
-                  <span>your.email@example.com</span>
+                  <span>anupongangbuntajang@gmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <span className="text-2xl mr-4">📱</span>
-                  <span>+66 xx xxx xxxx</span>
+                  <span>+66 63 939 2751</span>
                 </div>
                 <div className="flex items-center">
                   <span className="text-2xl mr-4">📍</span>
